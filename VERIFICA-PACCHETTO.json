@@ -1,0 +1,373 @@
+{
+  "revision": 4,
+  "date": "2026-11-02",
+  "scope": "Integrità,54skill,portabilità,standardi documentali ed esclusione codice05. Nessuna API/deploy/media a pagamento, nessuna ricostruzione completa delle app, nessuna cancellazione server-side degli allegati chat.",
+  "checks": [
+    {
+      "name": "Frontmatter delle54skill",
+      "passed": true,
+      "skills": [
+        {
+          "skill": "audio-generation",
+          "passed": true
+        },
+        {
+          "skill": "automation-and-scheduling",
+          "passed": true
+        },
+        {
+          "skill": "becquer-quiz",
+          "passed": true
+        },
+        {
+          "skill": "circolari-audio",
+          "passed": true
+        },
+        {
+          "skill": "codici-embed-cornici",
+          "passed": true
+        },
+        {
+          "skill": "cornice-universale",
+          "passed": true
+        },
+        {
+          "skill": "data-analysis",
+          "passed": true
+        },
+        {
+          "skill": "deploy-app-produzione",
+          "passed": true
+        },
+        {
+          "skill": "didattica-app-classe",
+          "passed": true
+        },
+        {
+          "skill": "didattica-app-lingue",
+          "passed": true
+        },
+        {
+          "skill": "didattica-app-matematica",
+          "passed": true
+        },
+        {
+          "skill": "didattica-documenti-accessibili",
+          "passed": true
+        },
+        {
+          "skill": "didattica-media-audio-3d",
+          "passed": true
+        },
+        {
+          "skill": "didattica-pubblicazione-blog",
+          "passed": true
+        },
+        {
+          "skill": "documents",
+          "passed": true
+        },
+        {
+          "skill": "equazioni-biquadratiche",
+          "passed": true
+        },
+        {
+          "skill": "equazioni-secondo-grado",
+          "passed": true
+        },
+        {
+          "skill": "espana-xix-match",
+          "passed": true
+        },
+        {
+          "skill": "espressioni-monomi-polinomi",
+          "passed": true
+        },
+        {
+          "skill": "financial-analysis",
+          "passed": true
+        },
+        {
+          "skill": "francese-facile",
+          "passed": true
+        },
+        {
+          "skill": "image-generation",
+          "passed": true
+        },
+        {
+          "skill": "immagine-interattivo",
+          "passed": true
+        },
+        {
+          "skill": "immagine-interattivo-sorgente",
+          "passed": true
+        },
+        {
+          "skill": "laboratorio-aumentato",
+          "passed": true
+        },
+        {
+          "skill": "laboratorio-aumentato-3d",
+          "passed": true
+        },
+        {
+          "skill": "laboratorio-aumentato-3d-sorgente",
+          "passed": true
+        },
+        {
+          "skill": "latino-facile",
+          "passed": true
+        },
+        {
+          "skill": "lingue-facili",
+          "passed": true
+        },
+        {
+          "skill": "mappa-3passi",
+          "passed": true
+        },
+        {
+          "skill": "mappa-concettuale",
+          "passed": true
+        },
+        {
+          "skill": "mappe-concettuali-lingue",
+          "passed": true
+        },
+        {
+          "skill": "mappe-concettuali-matematica",
+          "passed": true
+        },
+        {
+          "skill": "mappe-fisica-matematica",
+          "passed": true
+        },
+        {
+          "skill": "math-input-panel",
+          "passed": true
+        },
+        {
+          "skill": "modello-3d-didattico",
+          "passed": true
+        },
+        {
+          "skill": "parole-chiave-sorgente",
+          "passed": true
+        },
+        {
+          "skill": "presentazione-app-docx",
+          "passed": true
+        },
+        {
+          "skill": "quaderno-accessibile",
+          "passed": true
+        },
+        {
+          "skill": "quaderno-mappe-lingue",
+          "passed": true
+        },
+        {
+          "skill": "quiz-adapter",
+          "passed": true
+        },
+        {
+          "skill": "quiz-interattivo-con-audio-sorgente",
+          "passed": true
+        },
+        {
+          "skill": "quiz-interattivo-sorgente",
+          "passed": true
+        },
+        {
+          "skill": "research-report",
+          "passed": true
+        },
+        {
+          "skill": "romanticismo-interattivo",
+          "passed": true
+        },
+        {
+          "skill": "schema-quiz-builder",
+          "passed": true
+        },
+        {
+          "skill": "shakespeare-quiz",
+          "passed": true
+        },
+        {
+          "skill": "skill-creator",
+          "passed": true
+        },
+        {
+          "skill": "video-claymation-didattico",
+          "passed": true
+        },
+        {
+          "skill": "video-generation",
+          "passed": true
+        },
+        {
+          "skill": "web-design",
+          "passed": true
+        },
+        {
+          "skill": "wide-research",
+          "passed": true
+        },
+        {
+          "skill": "widget-matematico-sorgente",
+          "passed": true
+        },
+        {
+          "skill": "zip-esportabile-guide-ia",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "Sintassi,link attivi,manifest e scansione statica",
+      "passed": true,
+      "details": {
+        "passed": true,
+        "skills": 54,
+        "python_files_syntax_checked": 121,
+        "active_skill_links_checked": 67,
+        "manifest_files_checked": 639,
+        "errors": [],
+        "warnings": [],
+        "scope": "Controlli offline statici. Nessun test integrale delle app, generazione a pagamento, API o deploy."
+      }
+    },
+    {
+      "name": "Test repository/supporti/scientifici/ritiro",
+      "passed": true,
+      "details": {
+        "passed": true,
+        "tests_run": 45,
+        "summary": "_standard_rifiutato (supporti.SpecchiettiTests.test_titolo_mappa_non_standard_rifiutato) ... ok\ntest_titolo_sintesi_bold_rifiutato (supporti.SpecchiettiTests.test_titolo_sintesi_bold_rifiutato) ... ok\n\n----------------------------------------------------------------------\nRan 45 tests in 2.881s\n\nOK\n"
+      }
+    },
+    {
+      "name": "Risorse aggiornate sincronizzate integralmente",
+      "passed": true,
+      "mismatches": []
+    },
+    {
+      "name": "Password storiche assenti dal pacchetto",
+      "passed": true,
+      "files_with_matches": []
+    },
+    {
+      "name": "Articolo ritirato assente; solo nota minima di esclusione",
+      "passed": true,
+      "unexpected_matches": []
+    },
+    {
+      "name": "Rendering offline modello incluso e QA peso400/geometria78mm",
+      "passed": true,
+      "pages": 6,
+      "qa": {
+        "passed": true,
+        "pages": 6,
+        "units_checked": 2,
+        "summary_rows": 6,
+        "maps_checked": 1,
+        "map_boxes": 4,
+        "map_images": 4,
+        "summaries": [
+          {
+            "id": "sec1",
+            "rows": 3
+          },
+          {
+            "id": "sec2",
+            "rows": 3
+          }
+        ],
+        "maps": [
+          {
+            "id": "mappa",
+            "boxes": 4
+          }
+        ],
+        "measured_typography": [
+          [
+            17.33333,
+            1.85
+          ]
+        ],
+        "summary_font_weights": [
+          400
+        ],
+        "map_geometry": {
+          "mappa-gruppo-1-box-1": {
+            "width_mm": 77.99999999999999,
+            "height_mm": 77.99999999999999,
+            "page": 4
+          },
+          "mappa-gruppo-1-box-2": {
+            "width_mm": 77.99999999999999,
+            "height_mm": 77.99999999999999,
+            "page": 4
+          },
+          "mappa-gruppo-2-box-1": {
+            "width_mm": 77.99999999999999,
+            "height_mm": 77.99999999999999,
+            "page": 5
+          },
+          "mappa-gruppo-2-box-2": {
+            "width_mm": 77.99999999999999,
+            "height_mm": 77.99999999999999,
+            "page": 5
+          }
+        },
+        "map_image_geometry": {
+          "mappa-gruppo-1-box-1": {
+            "width_mm": 52.0,
+            "height_mm": 29.373
+          },
+          "mappa-gruppo-1-box-2": {
+            "width_mm": 52.0,
+            "height_mm": 29.373
+          },
+          "mappa-gruppo-2-box-1": {
+            "width_mm": 52.0,
+            "height_mm": 29.373
+          },
+          "mappa-gruppo-2-box-2": {
+            "width_mm": 52.0,
+            "height_mm": 29.373
+          }
+        },
+        "support_pages": {
+          "sec1-specchietto": [
+            2
+          ],
+          "sec2-specchietto": [
+            3
+          ],
+          "mappa": [
+            4,
+            5
+          ]
+        },
+        "errors": [],
+        "limits": "Sintesi: tutte le righe necessarie, mai grassetto (anche titoli/celle). Mappe: 78x78mm e immagini52mm; numero di box/pagine libero, solo parole chiave. I limiti di parole sono un controllo strutturale, non una prova semantica: leggere ogni nodo per escludere frasi. Interlinea/dimensione confrontate col corpo; niente cinque righe ai supporti. Nessuna certificazione PDF/UA indipendente."
+      },
+      "renderer": {
+        "source": "esempio-completo.html",
+        "output": "esempio.pdf",
+        "corrected_opaque_borders": 12,
+        "by_class": {
+          "indwrap": 1,
+          "blk text-chunk": 5,
+          "lf-summary": 2,
+          "lf-map-card": 4
+        },
+        "method": "opaque outer and inner closed shapes with nonzero fill; no even-odd compound border"
+      }
+    }
+  ],
+  "passed": true
+}

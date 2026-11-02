@@ -1,0 +1,104 @@
+{
+  "source_skill_folders": 54,
+  "new_skills_created": 0,
+  "original_folders_modified": true,
+  "redacted_distinct_values": 1,
+  "changes": [
+    {
+      "file": "skills/cornice-universale/SKILL.md",
+      "operation": "Rimozione del valore riservato; sostituito con un segnaposto locale."
+    },
+    {
+      "file": "skills/didattica-app-classe/SKILL.md",
+      "operation": "Risolto riferimento references/mappe-interattive.md alle risorse condivise recuperate."
+    },
+    {
+      "file": "skills/didattica-app-classe/SKILL.md",
+      "operation": "Risolto riferimento references/laboratori.md alle risorse condivise recuperate."
+    },
+    {
+      "file": "skills/didattica-app-classe/SKILL.md",
+      "operation": "Risolto riferimento references/quiz.md alle risorse condivise recuperate."
+    },
+    {
+      "file": "skills/didattica-app-classe/SKILL.md",
+      "operation": "Risolto riferimento references/immagini-interattive.md alle risorse condivise recuperate."
+    },
+    {
+      "file": "skills/didattica-app-classe/SKILL.md",
+      "operation": "Risolto riferimento references/linee-del-tempo.md alle risorse condivise recuperate."
+    },
+    {
+      "file": "skills/didattica-app-classe/references/",
+      "operation": "Aggiunte schede risorse/copertura specifiche della famiglia e resolver locale, senza usare gli inventari media non pertinenti."
+    },
+    {
+      "file": "skills/didattica-app-lingue/SKILL.md",
+      "operation": "Risolto riferimento references/latino-facile/photo-crop-clonabile.md alle risorse condivise recuperate."
+    },
+    {
+      "file": "skills/didattica-app-lingue/SKILL.md",
+      "operation": "Risolto riferimento references/latino-facile/palette-8754.md alle risorse condivise recuperate."
+    },
+    {
+      "file": "skills/didattica-app-lingue/SKILL.md",
+      "operation": "Risolto riferimento references/lingue-facili.md alle risorse condivise recuperate."
+    },
+    {
+      "file": "skills/didattica-app-lingue/SKILL.md",
+      "operation": "Risolto riferimento references/francese-facile.md alle risorse condivise recuperate."
+    },
+    {
+      "file": "skills/didattica-app-lingue/SKILL.md",
+      "operation": "Risolto riferimento references/latino-facile.md alle risorse condivise recuperate."
+    },
+    {
+      "file": "skills/didattica-app-lingue/SKILL.md",
+      "operation": "Risolto riferimento references/mappe-lingue.md alle risorse condivise recuperate."
+    },
+    {
+      "file": "skills/didattica-app-lingue/SKILL.md",
+      "operation": "Risolto riferimento references/latino-facile/ritaglio-mobile.md alle risorse condivise recuperate."
+    },
+    {
+      "file": "skills/didattica-app-lingue/references/",
+      "operation": "Aggiunte schede risorse/copertura specifiche della famiglia e resolver locale, senza usare gli inventari media non pertinenti."
+    },
+    {
+      "file": "skills/didattica-app-matematica/references/originali/espressioni-monomi-polinomi-SKILL.md",
+      "operation": "Riparati link relativi dopo ricollocazione, senza cambiare le prescrizioni storiche."
+    },
+    {
+      "file": "skills/didattica-pubblicazione-blog/references/originali/zip-esportabile-guide-ia-SKILL.md",
+      "operation": "Riparati link relativi dopo ricollocazione, senza cambiare le prescrizioni storiche."
+    },
+    {
+      "file": "skills/quaderno-accessibile/ + skills/didattica-documenti-accessibili/ + skills/zip-esportabile-guide-ia/",
+      "operation": "IN SINTESI per unità e MAPPA finale: prescrizioni, modelli completi, integrazione additiva, controllo di copertura, cinque test regressivi e registro dei nove PDF."
+    },
+    {
+      "file": "Tre skill didattiche e risorse collegate",
+      "operation": "Superate sintesi compatte e mappe a frecce: tabelle a due colonne con righe libere; titolo standard esatto; box con piccole scene clay interne; font/interlinea uguali al corpo; tutti nove PDF aggiornati e baseline metodologie v14; foto e otto test inclusi."
+    },
+    {
+      "file": "skill documentali, catalogo, registri e guide radice",
+      "operation": "Sincronizzazione con standard2novembre, test scientifici ed esclusione permanente del codice05; otto articoli attivi,54skill. Nessun documento ritirato incluso."
+    }
+  ],
+  "excluded_files": [
+    "codici-embed-cornici/scripts/__pycache__/rinumera_parti.cpython-311.pyc",
+    "codici-embed-cornici/scripts/__pycache__/suddividi_in_parti.cpython-311.pyc",
+    "laboratorio-aumentato-3d-sorgente/scripts/__pycache__/clone_app.cpython-311.pyc",
+    "quaderno-accessibile/scripts/__pycache__/verifica_box_semantici.cpython-311.pyc",
+    "quaderno-accessibile/scripts/__pycache__/verifica_titoli_centrati.cpython-311.pyc",
+    "quiz-interattivo-con-audio-sorgente/scripts/__pycache__/clone_audio_quiz_app.cpython-311.pyc",
+    "quiz-interattivo-con-audio-sorgente/scripts/__pycache__/change_quiz_theme.cpython-311.pyc"
+  ],
+  "revision": 4,
+  "source_skills_updated_by_user_request": [
+    "quaderno-accessibile",
+    "didattica-documenti-accessibili",
+    "zip-esportabile-guide-ia"
+  ],
+  "previous_export_untouched_source_note": "L’esportazione iniziale non modificava le skill; questa revisione modifica intenzionalmente tre skill su richiesta dell’utente."
+}
